@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  form(action='/pirate', method='POST')
+    p
+      | Username: 
+      input(type='text', name='username', placeholder='username')
+    p
+      | Hash: 
+      input(type='password', name='hash', placeholder='hash')
+    input(type='submit', value="Let's Go", style="margin-right:10px")
+  form(action='/export', method='GET')
+    input(type='submit', value='Export CSV')
+  if error
+    p #{error}

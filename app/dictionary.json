@@ -1,0 +1,34 @@
+[
+  {
+    "plaintext": "azerty",
+    "sha256": "8tgaJg3qihAN1ReYTlPFanUj2WlCqDS5zcJJvU6Meqk="
+  },
+  {
+    "plaintext": "admin",
+    "sha256": "jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg="
+  },
+  {
+    "plaintext": "root",
+    "sha256": "SBNJTRN+FjG7owHVrKtue7eqdM4RhdRWVl71HXN2d7I="
+  },
+  {
+    "plaintext": "Hello",
+    "sha256": "GF+NsyJx/iX1Yab8k4suJkMG7DBO2lGAB9F2SCY4GWk="
+  },
+  {
+    "plaintext": "Aloha",
+    "sha256": "MJiGjkYn1ENhos9Ww+sxk8z0ira46lUdklE20n9FJKg="
+  },
+  {
+    "plaintext": "mypassword",
+    "sha256": "ieAVNqwgcnlAnU3h5SU+AfShdp5pbbDWBiypuPVnZ8g="
+  },
+  {
+    "plaintext": "1234",
+    "sha256": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ="
+  },
+  {
+    "plaintext": "Thatsme",
+    "sha256": "1ukC7TVnANQkedE9T23g8zlE0DeaLWAj3xxQDVzp/c4="
+  }
+]
